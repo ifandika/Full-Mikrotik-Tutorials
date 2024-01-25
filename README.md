@@ -21,5 +21,7 @@ Untuk informasi seputar Mikrotik seperti website, forum, wiki.
 **Facebook** :   
 **Youtube** :   
 
+## 2. Tutorial
 
-
+**[Konfigurasi DHCP Server](tutorial/dhcp-server/README.md)**
+**[Konfigurasi IP Address](tutorial/ip-address/README.md)**
